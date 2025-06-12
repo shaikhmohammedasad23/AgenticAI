@@ -1,0 +1,27 @@
+Cricket Rules 
+
+- A cricket match is played between two teams of 11 players each.
+
+- One team bats to score runs while the other bowls and fields to restrict runs and dismiss batters.
+
+- The team with the most runs at the end of the match wins.
+
+- The game is played in formats like Test, ODI (50 overs), T20 (20 overs), and T10 (10 overs).
+
+- Runs are scored by running between the wickets or hitting boundaries (4 for ground hits, 6 for over the boundary).
+
+- A bowler delivers 6 legal balls in one over.
+
+- Each team takes turns to bat and bowl based on the format.
+
+- A batter is out if bowled, caught, run out, LBW, stumped, or hit wicket.
+
+- No-balls and wides give extra runs and require an extra delivery.
+
+- Powerplays restrict fielding positions during initial overs in limited-overs formats.
+
+- DRS (Decision Review System) allows teams to review umpire decisions using technology.
+
+- Umpires enforce rules and can penalize teams for time-wasting or unfair play.
+
+- The Spirit of Cricket emphasizes fair play, respect, and sportsmanship.
